@@ -1,6 +1,46 @@
 # DS_resources
 
+##Plan:
+0) Soft skills + finish reinforcement learning (interest):
+	-https://www.youtube.com/watch?v=yZFrSDjRvjk
+	-https://www.youtube.com/watch?v=G92TF4xYQcU&t=7s
+	
+1) Tableau:
+	- Abhishek Agarwal: https://www.youtube.com/playlist?list=PL6_D9USWkG1C4raCOTlTf_oq4XnNNNtm9
+	- Bharti consultancy:  https://www.youtube.com/playlist?list=PLyD1XCIRA3gQmN73dHwQWr4R08ABZFMtZ
 
+2) Python:
+	- Codebasics python tutorials (first 16) - https://www.youtube.com/playlist?list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0
+	
+3) Numpy, Pandas, Data Visualization:  
+
+* NumPy and Pandas
+	- Codebasics Numpy playlist: https://www.youtube.com/playlist?list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU
+	- Codebasics pandas playlist (first 9): https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy
+
+* Visualization library
+	- Matplotlib: codebasics matplotlib playlist: https://www.youtube.com/playlist?list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl
+	- Seaborn: codebasics seaborn tutorials: https://www.youtube.com/playlist?list=PLJIOr9Je9wzHT-ptgfelpt2Nyx4VGX_j9
+	
+* Kaggle exploratory data analysis
+	- Notebooks: https://www.kaggle.com/notebooks
+	- Datasets: https://www.kaggle.com/datasets
+	
+4) Machine learning (Regression, Classification, Clustering)
+	- codebasics ml playlist (first 16): https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw
+	- Andrew Ng: https://www.youtube.com/watch?v=4b4MUYve_U8
+	- Coursea / Udemy / Udacity.
+	
+
+5) Deep learning (artificial neural network, convolutional neural network, recurrent neural network) 
+  	- codebasics deep learning playlist: https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO
+	
+6) Reinforcement learning:
+	- David Silver: https://www.youtube.com/watch?v=2pWv7GOvuf0
+	- https://www.davidsilver.uk/talks/
+	
+	
+	
 ## Learn data science step by step in 6 months
 ----------------------------------------------
 Taken from :https://github.com/codebasics/py/blob/master/TechTopics/DataScienceRoadMap2020/data_science_roadmap_2020.md
