@@ -1,6 +1,6 @@
 # DS_resources
 
-##Plan:
+## Plan:
 0) Soft skills + finish reinforcement learning (interest):
 	-https://www.youtube.com/watch?v=yZFrSDjRvjk
 	-https://www.youtube.com/watch?v=G92TF4xYQcU&t=7s
