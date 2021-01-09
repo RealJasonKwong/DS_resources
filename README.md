@@ -125,3 +125,5 @@ Following is a schedule to learn data science step by step considering **4 hours
 * Free book on statistics: http://greenteapress.com/thinkstats/thinkstats.pdf
 * Another good book on statistics (not free) Naked Statistics - Charles Wheelan
 
+
+*Editing on the bottom*
